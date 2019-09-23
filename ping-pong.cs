@@ -7,23 +7,23 @@ class Program
     Console.WriteLine("Enter A Number here");
      string yourNumber = Console.ReadLine();
      int intYourNumber = int.Parse(yourNumber);
-     for (int index = 0; index<=intYourNumber; index++ )
+     for (int index = 1; index<=intYourNumber; index++ )
      {
-       if (intYourNumber % 3 == 0 && intYourNumber % 5 == 0)
+       if (index % 3 == 0 && index % 5 == 0)
        {
          Console.WriteLine("Ping-Pong");
        }
-       else if (intYourNumber % 3 == 0)
+       else if (index % 3 == 0)
        {
          Console.WriteLine("Ping");
        }
-       else if (intYourNumber % 5 == 0)
+       else if (index % 5 == 0)
        {
          Console.WriteLine("Pong");
        }
        else
        {
-         Console.WriteLine(intYourNumber);
+         Console.WriteLine(index);
        }
     }
   }
