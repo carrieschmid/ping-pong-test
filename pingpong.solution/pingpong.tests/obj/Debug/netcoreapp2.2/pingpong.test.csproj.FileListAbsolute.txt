@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/obj/Debug/netcoreapp2.2/pingpong.test.csprojAssemblyReference.cache
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/obj/Debug/netcoreapp2.2/pingpong.test.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/obj/Debug/netcoreapp2.2/pingpong.test.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/obj/Debug/netcoreapp2.2/pingpong.test.AssemblyInfo.cs
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/bin/Debug/netcoreapp2.2/pingpong.test.deps.json
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/bin/Debug/netcoreapp2.2/pingpong.test.runtimeconfig.json
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/bin/Debug/netcoreapp2.2/pingpong.test.runtimeconfig.dev.json
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/bin/Debug/netcoreapp2.2/pingpong.test.dll
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/bin/Debug/netcoreapp2.2/pingpong.test.pdb
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/bin/Debug/netcoreapp2.2/pingpong.dll
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/bin/Debug/netcoreapp2.2/pingpong.pdb
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/obj/Debug/netcoreapp2.2/pingpong.test.csproj.CopyComplete
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/obj/Debug/netcoreapp2.2/pingpong.test.dll
+/Users/Guest/Desktop/ping-pongcsharp/pingpong.solution/pingpong.tests/obj/Debug/netcoreapp2.2/pingpong.test.pdb
